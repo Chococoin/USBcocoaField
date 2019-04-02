@@ -1,0 +1,6 @@
+/.secret
+/.env
+/package-lock.json
+/build
+/build/*
+/node_modules
